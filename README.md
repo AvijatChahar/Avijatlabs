@@ -68,17 +68,6 @@ Specializing in **Computer Vision** and **Natural Language Processing**, I build
 - 📝 I write about AI/ML on my [Blog](https://avijatlabs.com/blog.html)
 
 ---
-
-## 🛠️ Tech Stack
-
-```
-Computer Vision      │ Object Detection · Segmentation · Depth Estimation
-NLP / LLMs           │ Fine-tuning · RAG · Legal AI · Chatbots
-Generative AI        │ Diffusion Models · GANs · Stable Diffusion
-Frameworks           │ PyTorch · TensorFlow · HuggingFace · OpenCV
-Deployment           │ ONNX · TensorRT · Docker · FastAPI
-```
-
 ---
 
 # 💫 About Me:
