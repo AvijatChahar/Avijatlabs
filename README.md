@@ -1,7 +1,3 @@
-# 👋 Hi, I'm Avijat Chahar
-                                                                                                    
-                                                                                                    
-                                                                                                    
                                                                                                     
                                           =. .+*+=+%###-=-.                                         
                                          +#+#%%*##%@%%%%#%#%++:                                     
@@ -52,10 +48,13 @@
 
 ---
 
-# 💫 About Me:
-I'm an AI automation Engineer. I create automations for businesses to reduce their time and resources. While increasing 
-their profits. 
-<br> Avijatlabs provide services like social media automation, crm softwares, website & app development, seo optimization, and performance marketing.<br>🌍 Based in India<br>🚀 Founder of AVIJATlabs<br>💼 50+ Projects delivered since 2020<br>📝 I write about AI/ML on my Blog
+# 💫 About Me: 
+I'm Avijat Chahar, an AI automation Engineer. I create automation workflows for businesses to reduce their time and resources. While increasing their profits. <br>
+Avijatlabs provide services like social media automation, crm softwares, website & app development, seo optimization, and performance marketing.<br>
+🌍 Based in India<br>
+🚀 Founder of AVIJATlabs<br>
+💼 50+ Projects delivered since 2020<br>
+📝 I write about AI/ML on my Blog
 
 
 ## 🌐 Socials:
