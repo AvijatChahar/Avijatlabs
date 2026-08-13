@@ -50,24 +50,6 @@
      .+#*==*###*++##%##***++*##*+**++****+-.:-------=+=---=++=*##############*.                     
     =*#%###**###*+#######**+*###**++************+++===-:-=***################%###=
 
-
-> I'm an AI & ML Engineer from India. I create automations for businesses to reduce their time and resources. While giving them quality of work.
-> Avijatlabs provide services like social media automation, crm softwares, website & app development, seo optimization, and performance marketing.
-
----
-
-## 🧠 About
-
-I architect neural networks that solve human problems. My work lives at the intersection of **mathematical precision** and **creative application**.
-
-Specializing in **Computer Vision** and **Natural Language Processing**, I build systems that see, understand, and interact.
-
-- 🌍 Based in **India**
-- 🚀 Founder of **[AVIJATlabs](https://avijatchahar.github.io/Avijatchahar/)**
-- 💼 **50+ Projects** delivered since 2020
-- 📝 I write about AI/ML on my [Blog](https://avijatlabs.com/blog.html)
-
----
 ---
 
 # 💫 About Me:
