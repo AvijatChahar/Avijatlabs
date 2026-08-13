@@ -53,7 +53,8 @@
 ---
 
 # 💫 About Me:
-I'm an AI & ML Engineer from India. I create automations for businesses to reduce their time and resources. While giving them quality of work. 
+I'm an AI automation Engineer. I create automations for businesses to reduce their time and resources. While increasing 
+their profits. 
 <br> Avijatlabs provide services like social media automation, crm softwares, website & app development, seo optimization, and performance marketing.<br>🌍 Based in India<br>🚀 Founder of AVIJATlabs<br>💼 50+ Projects delivered since 2020<br>📝 I write about AI/ML on my Blog
 
 
