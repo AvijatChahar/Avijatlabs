@@ -47,6 +47,8 @@
     =*#%###**###*+#######**+*###**++************+++===-:-=***################%###=
 
 ---
+<img width="881" height="837" alt="image" src="https://github.com/user-attachments/assets/d8d067b9-afee-4ce0-a92a-d239863c233c" />
+
 
 # 💫 About Me: 
 I'm Avijat Chahar, an AI automation Engineer. I create automation workflows for businesses to reduce their time and resources. While increasing their profits. <br>
