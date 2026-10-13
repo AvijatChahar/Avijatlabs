@@ -1,86 +1,50 @@
-# 📈 CLS Media
+# AvijatLabs — AI Customer Acquisition & Follow-up Systems
 
-Social Media Marketing Agency
+A static one-page website for AvijatLabs, deployable for free on **GitHub Pages**.
 
-### We Help Businesses Scale With Paid Ads and High-Performing Social Content
+## 🚀 Deploy to GitHub Pages (Free)
 
-> *No vague promises. Clear systems that get clients, calls, and cash.*
-
-🌐 **[clsmedia](https://avijatchahar.github.io/clsmedia/)** · Performance-based options available.
-
----
-
-## 🚀 Results at a Glance
-
-| Metric | Result |
-|--------|--------|
-| 📊 Lead Volume Increase | **+35%** |
-| 💰 Return on Ad Spend | **4.2x ROAS** |
-| ⏱️ Growth Sprint Duration | **90 Days** |
-
-✅ Results-focused · ⚡ Fast turnaround · 🧠 Data-driven · 🔁 Proven systems
-
----
-
-## 🛠️ Services
-
-### 💰 Paid Ads — Meta / Google
-- Audience building & targeting
-- Offer testing & creative iteration
-- Ad creative, pixel setup & conversion tracking
-
-### 📱 Content + Social Growth — Organic & Brand
-- Short-form video editing
-- Weekly content posting system
-- Engagement loops & community growth
-
-### 🔗 Lead & Appointment Systems — Conversion Infrastructure
-- High-converting funnels
-- CRM setup & marketing automation
-- Follow-up sequences & lead nurturing
-
----
-
-## 🏆 Recent Client Wins
-
-| Client | Outcome |
-|--------|---------|
-| 🎨 Paint & Chaos | Growth via targeted paid ads |
-| 👗 ATTIRE | Brand content + social scaling |
-| 🚗 CarRental | Lead gen & appointment system |
-
-> We also build high-converting websites for your brand.
-
----
-
-## ⚙️ How We Work
-
-```
-01 AUDIT       →   Analyze your current setup to find leaks and opportunities
-02 STRATEGY    →   Build a custom roadmap to hit your specific revenue goals  
-03 EXECUTION   →   Launch, test, and optimize aggressively for maximum ROI
+### Step 1: Push to GitHub
+```bash
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/YOUR_USERNAME/avijatlabs.git
+git push -u origin main
 ```
 
----
+### Step 2: Enable GitHub Pages
+1. Go to your GitHub repo → **Settings** → **Pages**
+2. Under **Source**, select **Deploy from a branch**
+3. Choose branch: `main` | Folder: `/ (root)`
+4. Click **Save**
 
-## 💡 Why CLS Media?
-
-We believe **acquisition should be predictable, not random.**
-
-Too many businesses rely on hope marketing. We rely on **data, systems, and relentless execution** — turning your ad spend into a reliable growth engine.
-
----
-
-## 📬 Contact
-
-Ready to grow without guessing? Let's talk.
-
-| Channel | Details |
-|---------|---------|
-| 📞 Phone | [+91 (800) 564-0180](tel:+918005640180) |
-| ✉️ Email | [avijat1chahar@gmail.com](mailto:avijat1chahar@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/avijatchahar](https://www.linkedin.com/in/avijatchahar/) |
-| 🐦 Twitter / X | [x.com/avijatchahar](https://x.com/avijatchahar) |
-| 📸 Instagram | [instagram.com/avijatchahar](https://www.instagram.com/avijatchahar/) |
+Your site will be live at:
+`https://YOUR_USERNAME.github.io/avijatlabs/`
 
 ---
+
+## 🛠️ Tech Stack
+- **HTML5** — Structure
+- **Vanilla CSS** — Styling & responsive layout
+- **Vanilla JavaScript** — Interactivity (no frameworks, no build step)
+
+## 📁 Project Structure
+```
+avijatlabs/
+├── index.html      # Main one-page site
+├── style.css       # All styles
+├── main.js         # Interactive features (nav, demo, calculator, FAQ)
+├── assets/         # Images
+├── .nojekyll       # Required for GitHub Pages
+└── README.md
+```
+
+## ✨ Features
+- Responsive (mobile-first)
+- Floating pill navigation with mobile drawer
+- Interactive workflow pipeline simulator
+- Live AI demo chat simulator
+- ROI calculator with sliders
+- Case studies grid
+- FAQ accordion
+- No build tools required — open `index.html` directly in a browser
