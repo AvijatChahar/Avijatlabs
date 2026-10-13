@@ -1,50 +1,45 @@
-# AvijatLabs — AI Customer Acquisition & Follow-up Systems
+# AvijatLabs — AI Automation Agency
 
-A static one-page website for AvijatLabs, deployable for free on **GitHub Pages**.
+> **We build AI systems that capture, qualify, and convert leads — on autopilot.**
 
-## 🚀 Deploy to GitHub Pages (Free)
-
-### Step 1: Push to GitHub
-```bash
-git add .
-git commit -m "Initial commit"
-git remote add origin https://github.com/YOUR_USERNAME/avijatlabs.git
-git push -u origin main
-```
-
-### Step 2: Enable GitHub Pages
-1. Go to your GitHub repo → **Settings** → **Pages**
-2. Under **Source**, select **Deploy from a branch**
-3. Choose branch: `main` | Folder: `/ (root)`
-4. Click **Save**
-
-Your site will be live at:
-`https://YOUR_USERNAME.github.io/avijatlabs/`
+AvijatLabs is an AI automation agency that helps businesses stop losing revenue to slow follow-ups and manual processes. We design and deploy custom AI-powered pipelines that work 24/7, so your team can focus on closing deals instead of chasing them.
 
 ---
 
-## 🛠️ Tech Stack
-- **HTML5** — Structure
-- **Vanilla CSS** — Styling & responsive layout
-- **Vanilla JavaScript** — Interactivity (no frameworks, no build step)
+## 🤖 What We Build
 
-## 📁 Project Structure
-```
-avijatlabs/
-├── index.html      # Main one-page site
-├── style.css       # All styles
-├── main.js         # Interactive features (nav, demo, calculator, FAQ)
-├── assets/         # Images
-├── .nojekyll       # Required for GitHub Pages
-└── README.md
-```
+| Service | Description |
+|---|---|
+| **AI Lead Capture** | Instant response systems that engage every inbound lead within seconds |
+| **WhatsApp Automation** | Automated follow-up engines on WhatsApp that qualify prospects at scale |
+| **CRM Automation** | Seamless CRM integrations that log, tag, and route leads automatically |
+| **AI Chatbots** | Custom-trained chatbots that handle objections and book appointments |
+| **Pipeline Leak Audits** | Deep-dive audits to find where your funnel is bleeding revenue |
+| **Revenue Recovery Systems** | Re-engagement workflows for cold or dropped leads |
 
-## ✨ Features
-- Responsive (mobile-first)
-- Floating pill navigation with mobile drawer
-- Interactive workflow pipeline simulator
-- Live AI demo chat simulator
-- ROI calculator with sliders
-- Case studies grid
-- FAQ accordion
-- No build tools required — open `index.html` directly in a browser
+---
+
+## 💡 The Problem We Solve
+
+Most businesses lose **60–80% of their leads** not because of bad marketing — but because of slow or inconsistent follow-up. By the time a human responds, the prospect has moved on.
+
+**AvijatLabs automates the entire top-of-funnel:**
+- Instant lead capture from any source (website, ads, social)
+- Immediate AI-powered qualification via WhatsApp / SMS / email
+- Auto-scheduling of discovery calls
+- CRM updates without manual data entry
+- Drip re-engagement for cold leads
+
+---
+Live at: `https://avijatchahar.github.io/avijatlabs/`
+
+---
+
+## 📬 Contact
+
+- **Email:** [avijat1chahar@gmail.com](mailto:avijat1chahar@gmail.com)
+- **Book a Free Audit:** [cal.com/avijatchahar/30min](https://cal.com/avijatchahar/30min)
+
+---
+
+*Built by Avijat Chahar — AI Automation Specialist*
